@@ -84,7 +84,7 @@ It goes far beyond finding isolated facts — it is about building **multi-persp
 - **What to include:** Clearly define your objective, desired output format, required depth of research, and any necessary constraints.
 
 **Example Prompt:**
-```plaintext
+
 Compare the environmental impact of electric vehicles versus hydrogen fuel cell vehicles, focusing on lifecycle emissions and energy efficiency. Provide quantitative comparisons and cite relevant sources.
 
 
