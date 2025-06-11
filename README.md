@@ -78,7 +78,8 @@ It goes far beyond finding isolated facts — it is about building **multi-persp
 ## 🔄 Deep Research Workflow
 
 > A repeatable, structured **3-step process for comprehensive research:**
-> Here is more detailed step by step explanation (Click here)[https://github.com/ojalp26/Deep-Research-with-Modern-AI-Language-Models/blob/main/Steps%20by%20Step%20Explanation%20with%20Example.pdf]
+> 
+> Here is more detailed step by step explanation [Click here](https://github.com/ojalp26/Deep-Research-with-Modern-AI-Language-Models/blob/main/Steps%20by%20Step%20Explanation%20with%20Example.pdf)
 
 ### 1️⃣ Craft a Detailed Prompt
 - **Why it’s important:** A well-designed prompt sets the research direction and determines the quality of the outcome.
@@ -86,7 +87,7 @@ It goes far beyond finding isolated facts — it is about building **multi-persp
 
 **Example Prompt:**
 
-Compare the environmental impact of electric vehicles versus hydrogen fuel cell vehicles, focusing on lifecycle emissions and energy efficiency. Provide quantitative comparisons and cite relevant sources.
+"Research the average target price and the range of price targets for Tata Motors (NSE: TATAMOTORS) as forecasted by at least five reputable financial analysts within the last month. Also, analyze how recent quarter-over-quarter sales growth in their passenger vehicle segment and the projected growth rate of the Indian automotive market are factored into these price targets." 
 
 
 ---
@@ -130,6 +131,6 @@ A well-rounded, deeply verified research report that is faster, broader, and mor
 
 ```plaintext
 📁 Deep-Research-With-AI
-├── 📄 README.md                # High-level introduction and workflow overview
-├── 📄 AI Deep Research Guide.docx  # Detailed methodology, prompt engineering, examples
-└── 📁 example-reports          # Sample reports from various AI platforms
+├── 📄 README.md - High-level introduction and workflow overview
+├── 📄 Steps by Step Explanation with Example.pdf - Detailed methodology, prompt engineering, examples
+└── 📁 example-report - Final output example report 
