@@ -78,6 +78,7 @@ It goes far beyond finding isolated facts — it is about building **multi-persp
 ## 🔄 Deep Research Workflow
 
 > A repeatable, structured **3-step process for comprehensive research:**
+> Here is more detailed step by step explanation (Click here)[https://github.com/ojalp26/Deep-Research-with-Modern-AI-Language-Models/blob/main/Steps%20by%20Step%20Explanation%20with%20Example.pdf]
 
 ### 1️⃣ Craft a Detailed Prompt
 - **Why it’s important:** A well-designed prompt sets the research direction and determines the quality of the outcome.
